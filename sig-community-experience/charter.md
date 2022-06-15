@@ -66,16 +66,13 @@ After that, it should be learned and documented knowledge, to be build on.
 **Data Driven "All"**: Coming from data driven development, why stop at that. Use data to drive everything that can be measured and find ways to measure things, that can not be measured yet. Establishing or proving the idea, that a thought only needs to be thought once, and a mistake should only be made ones, after that it should be knowledge that can be applied instead of trying again, data driven can help e.g. to find where things were done twice or more and work on the why and solve it.
 
 #### Code, Binaries and Services
-- Finding and Defining KPIs, SLIs, SLOs, and Measurements that make a better consumer and service experience
-- Creating Dashboards and observe SLAs
 - Observe, Document, Coach, Update Governance
 - Guidelines and Help to use Governance and bring it into action (OrgOps)
-- Document and Engage Community work
-- Define and find needs, problems and solutions
+- Define and find needs, problems, and solutions
 - Observe the quality of services, issues, PRs and communicate it
 - Create visibility on our (current and future) services and solutions (Marketing)
-- Keep an eye on ROMS, OKRs, ...
-- Communicate and Marketing
+- Keep an eye on ROMS, ...
+
 
 
 #### Cross-cutting and Externally Facing Processes
@@ -88,22 +85,6 @@ Finding the right people/skills
 - ...
 ---
 
-## Roles and Organization Management
-- ...
-
-### Additional responsibilities of Chairs
-- ...
-
-### Additional responsibilities of Tech Leads
-- ...
-
-### Deviations from [sig-governance]
-- ...
--
-### Subproject Creation
-- SP Metrics Strategic
-- SP ComCom
-- SP GovOrg
 
 [sig-governance]: https://github.com/open-services-group/community/blob/master/committee-steering/governance/sig-governance.md
 [sig-subprojects]: https://github.com/open-services-group/community/blob/master/sig-YOURSIG/README.md#subprojects
